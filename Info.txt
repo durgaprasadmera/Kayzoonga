@@ -1,0 +1,12 @@
+Name: 
+Place:
+Age:
+Current Employer:
+Position:
+Current CTC:
+Increment Date:
+Total Exp:
+React Exp:
+Team Size:
+Notice Period:
+Any offer: 
