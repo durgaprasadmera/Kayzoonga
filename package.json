@@ -1,0 +1,35 @@
+{
+  "name": "kyazoonga",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-2": "^6.11.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "description": "Kayazoonga Project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack",
+    "start": "webpack-dev-server --hot --inline --content-base ./src --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durgaprasadmera/Kayzoonga.git"
+  },
+  "author": "DurgaPrasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durgaprasadmera/Kayzoonga/issues"
+  },
+  "homepage": "https://github.com/durgaprasadmera/Kayzoonga#readme"
+}
